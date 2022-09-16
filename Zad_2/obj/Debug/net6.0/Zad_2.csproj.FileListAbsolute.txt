@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\bin\Debug\net6.0\Zad_2.exe
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\bin\Debug\net6.0\Zad_2.deps.json
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\bin\Debug\net6.0\Zad_2.runtimeconfig.json
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\bin\Debug\net6.0\Zad_2.dll
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\bin\Debug\net6.0\Zad_2.pdb
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.csproj.AssemblyReference.cache
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.AssemblyInfo.cs
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.dll
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\refint\Zad_2.dll
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.pdb
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\Zad_2.genruntimeconfig.cache
+D:\GeekBrains\C#\DZ_sem_1\Zad_2\obj\Debug\net6.0\ref\Zad_2.dll
